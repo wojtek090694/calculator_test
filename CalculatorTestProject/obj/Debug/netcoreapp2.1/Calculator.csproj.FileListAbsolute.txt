@@ -1,0 +1,11 @@
+C:\Users\WojciechBochniarz\source\repos\CalculatorTestProject\CalculatorTestProject\bin\Debug\netcoreapp2.1\Calculator.deps.json
+C:\Users\WojciechBochniarz\source\repos\CalculatorTestProject\CalculatorTestProject\bin\Debug\netcoreapp2.1\Calculator.runtimeconfig.json
+C:\Users\WojciechBochniarz\source\repos\CalculatorTestProject\CalculatorTestProject\bin\Debug\netcoreapp2.1\Calculator.runtimeconfig.dev.json
+C:\Users\WojciechBochniarz\source\repos\CalculatorTestProject\CalculatorTestProject\bin\Debug\netcoreapp2.1\Calculator.dll
+C:\Users\WojciechBochniarz\source\repos\CalculatorTestProject\CalculatorTestProject\bin\Debug\netcoreapp2.1\Calculator.pdb
+C:\Users\WojciechBochniarz\source\repos\CalculatorTestProject\CalculatorTestProject\obj\Debug\netcoreapp2.1\Calculator.csprojAssemblyReference.cache
+C:\Users\WojciechBochniarz\source\repos\CalculatorTestProject\CalculatorTestProject\obj\Debug\netcoreapp2.1\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\WojciechBochniarz\source\repos\CalculatorTestProject\CalculatorTestProject\obj\Debug\netcoreapp2.1\Calculator.AssemblyInfoInputs.cache
+C:\Users\WojciechBochniarz\source\repos\CalculatorTestProject\CalculatorTestProject\obj\Debug\netcoreapp2.1\Calculator.AssemblyInfo.cs
+C:\Users\WojciechBochniarz\source\repos\CalculatorTestProject\CalculatorTestProject\obj\Debug\netcoreapp2.1\Calculator.dll
+C:\Users\WojciechBochniarz\source\repos\CalculatorTestProject\CalculatorTestProject\obj\Debug\netcoreapp2.1\Calculator.pdb
